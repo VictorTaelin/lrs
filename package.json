@@ -1,0 +1,25 @@
+{
+  "name": "lrs",
+  "version": "0.1.5",
+  "description": "Linkable Ring Signatures on PureScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maiavictor/lrs.git"
+  },
+  "author": "Victor Maia",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/maiavictor/lrs/issues"
+  },
+  "homepage": "https://github.com/maiavictor/lrs#readme",
+  "dependencies": {
+    "big-integer": "^1.6.16",
+    "hmac": "^1.0.1",
+    "secure-random": "^1.1.1",
+    "sha.js": "^2.4.5"
+  }
+}

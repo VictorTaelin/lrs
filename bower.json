@@ -1,0 +1,21 @@
+{
+  "name": "vote",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "output"
+  ],
+  "dependencies": {
+    "purescript-console": "^1.0.0",
+    "purescript-bigints": "git://github.com/MaiaVictor/purescript-bigints.git#d2e45fce43bb9ff3ddebe84a21956ad1e5c7e6aa",
+    "purescript-foldable-traversable": "^1.0.0",
+    "purescript-arrays": "^1.1.0",
+    "purescript-sets": "^1.0.0",
+    "purescript-assert": "^1.0.0",
+    "purescript-debug": "^1.0.0"
+  },
+  "devDependencies": {
+    "purescript-psci-support": "^1.0.0"
+  }
+}
